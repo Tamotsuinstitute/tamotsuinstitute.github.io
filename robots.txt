@@ -1,0 +1,13 @@
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: *
+Disallow: /config
+Disallow: /search
+Allow: /
+
+Sitemap: https://www.tamotsuinstitute.com/sitemap.xml
+Host: www.tamotsuinstitute.com
